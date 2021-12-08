@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab</h1>
-<h3 align="center">Proactive software engineer possessing in-depth knowledge of various programming languages and best practices for development. Solutions-based collaborator well-versed in developing and simulating automated tasks, developing and implementing automated cloud-based use cases, building reusable code and backend of Web Applications. Offering 2.5 years of experience creating and applying technology to develop, automate, monitor, and control production and delivery of client requirements.</h3>
+<h3 align="center">Proactive software engineer possessing in-depth knowledge of various programming languages and best practices for development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabdutta2194&label=Profile%20views&color=0e75b6&style=flat" alt="arnabdutta2194" /> </p>
 
