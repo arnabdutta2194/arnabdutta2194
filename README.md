@@ -1,3 +1,6 @@
+[![MasterHead](https://github.com/arnabdutta2194/arnabdutta2194/blob/main/Screenshot%202021-12-08%20at%2011.28.55%20PM.png?raw=true)](https://arnabdutta2194.github.io)
+
+
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 <h3 align="center">Proactive software engineer possessing in-depth knowledge of various programming languages and best practices for development.</h3>
 
