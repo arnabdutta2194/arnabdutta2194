@@ -33,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnabdutta2194&show_icons=true&locale=en" alt="arnabdutta2194" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabdutta2194&" alt="arnabdutta2194" /></p>
+
+## 📈Activity Graph
+
+<a href="https://github.com/arnabdutta2194/"><img alt="arnabdutta2194's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ab007shetty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
