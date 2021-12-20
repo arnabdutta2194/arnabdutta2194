@@ -36,4 +36,4 @@
 
 ## 📈Activity Graph
 
-<a href="https://github.com/arnabdutta2194/"><img alt="arnabdutta2194's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabdutta2194&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/arnabdutta2194/"><img alt="arnabdutta2194's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabdutta2194&&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
