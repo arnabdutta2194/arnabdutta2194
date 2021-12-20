@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/arnabdutta2194/arnabdutta2194/blob/main/Screenshot%202021-12-08%20at%2011.28.55%20PM.png?raw=true)](https://arnabdutta2194.github.io)
+[![MasterHead](https://github.com/arnabdutta2194/arnabdutta2194/blob/main/Arnab_Dutta_MastHead.png?raw=true)](https://arnabdutta2194.github.io)
 
 
 <h1 align="center">Hi 👋, I'm Arnab</h1>
