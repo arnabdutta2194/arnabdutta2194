@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ronniez2194" target="blank"><img src="https://img.shields.io/twitter/follow/ronniez2194?logo=twitter&style=for-the-badge" alt="ronniez2194" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, NLP and Django**
+- 🌱 I’m currently learning **React JS, NLP , LLD and HLD**
 
 - 💬 Ask me about **Python, Automation and Backend Development**
 
